@@ -1,5 +1,13 @@
 # Spring Boot Project – IntelliJ IDEA 
 
+# Project: Hotel Management System
+
+This is the backend code of my project. It is built using Java (Spring Boot) and integrated it with React (for frontend) and MySQL (for database operations).
+
+# Project Description
+
+This project intends to create and design a single, standalone hotel management system with secure user access, different types of rooms and their descriptions, check room availability, book a room by check-in and check-out dates, view bookings, display the hotel facilities, and admin operations. 
+
 # Getting Started
 
 ### Open the Project in IntelliJ
