@@ -1,5 +1,3 @@
-# Spring Boot Project – IntelliJ IDEA 
-
 # Project: Hotel Management System
 
 This is the backend code of my project. It is built using Java (Spring Boot) and integrated it with React (for frontend) and MySQL (for database operations).
